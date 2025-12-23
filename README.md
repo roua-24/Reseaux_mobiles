@@ -131,5 +131,3 @@ TP réalisés dans le cadre des cours de **Réseaux Mobiles / Communications Num
 
 ---
 
-## 📌 Remarque
-Ce dépôt est à but **pédagogique** et sert de support pour l’apprentissage, la révision et la démonstration des compétences en télécommunications.
